@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/index.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/show.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/_form.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/activityGroup/edit.gsp
+END

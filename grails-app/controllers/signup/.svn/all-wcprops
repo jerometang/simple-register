@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/6636/Labs/Register-trunk/grails-app/controllers/signup
+END
+ActivityGroupController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/controllers/signup/ActivityGroupController.groovy
+END
+ActivityItemController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/6624/Labs/Register-trunk/grails-app/controllers/signup/ActivityItemController.groovy
+END
+JoinItemController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/6636/Labs/Register-trunk/grails-app/controllers/signup/JoinItemController.groovy
+END

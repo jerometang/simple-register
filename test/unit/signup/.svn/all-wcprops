@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup
+END
+ActivityGroupTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/ActivityGroupTests.groovy
+END
+ActivityItemTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/ActivityItemTests.groovy
+END
+ActivityGroupControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/ActivityGroupControllerTests.groovy
+END
+JoinItemTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/JoinItemTests.groovy
+END
+ActivityItemControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/ActivityItemControllerTests.groovy
+END
+JoinItemControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/6622/Labs/Register-trunk/test/unit/signup/JoinItemControllerTests.groovy
+END

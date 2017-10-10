@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/6636/Labs/Register-trunk/grails-app/views
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/index.gsp
+END
+error.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/error.gsp
+END
+invalid.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/6622/Labs/Register-trunk/grails-app/views/invalid.gsp
+END
